@@ -1,1 +1,1 @@
-# computer-science-wiki.github.io
+# ComputerScience.wiki
